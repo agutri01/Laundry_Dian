@@ -1,0 +1,8 @@
+{
+  "name": "Remix Aplikasi Kasir \u0026 Pelacak Laundry",
+  "description": "Sistem kasir POS laundry kiloan dan satuan, data pelanggan \u0026 saldo deposit, pelacakan proses cucian, cetak nota, dan notifikasi WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
